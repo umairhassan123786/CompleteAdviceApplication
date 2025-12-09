@@ -1,6 +1,6 @@
 # Wellcome to Advice Application Backend
 - It is basically Backend of Advice Application.
-- Admin can post view add,delete advice that he wrote.
+- Admin can post view add,delete advice that he post.
 - User can only see and rate their advices
 - Admin cannot change or delete other admin's advice
 - Users can also view Top Rated or Less Rated Advices.
