@@ -7,6 +7,5 @@
 
 ## How to Run
 - Use the Java 17 or 21 to run it
-- MySql Database is used.
-- Swagger UI is also used to test the APIs
-- You can also use the postman to test the APIs.
+- Install MySql Database and create Database AdviceApplication or any other name.
+- You can use Swagger UI to test the APIs or Postman
